@@ -47,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/kibeom-kim/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kibeom-kim/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kibeom-kim/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kibeom-kim/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
