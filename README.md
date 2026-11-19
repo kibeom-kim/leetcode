@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/kibeom-kim/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kibeom-kim/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kibeom-kim/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kibeom-kim/leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -94,4 +97,16 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kibeom-kim/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
