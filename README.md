@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kibeom-kim/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kibeom-kim/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kibeom-kim/leetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kibeom-kim/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
