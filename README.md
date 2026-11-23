@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -167,4 +168,12 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/kibeom-kim/leetcode/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
