@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -179,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
