@@ -11,24 +11,42 @@ class Solution:
         if not root:
             return answer
 
-        # q = list()
+        # # q = list()
+        # q = collections.deque()
+        # q.append((root, 1))
+
+        # while q:
+        #     # node, level = q[0]
+        #     # q = q[1:]
+        #     node, level = q.popleft()
+            
+        #     if len(answer) < level:
+        #         answer.append([])
+
+        #     answer[level - 1].append(node.val)
+
+        #     if node.left:
+        #         q.append((node.left, level + 1))
+            
+        #     if node.right:
+        #         q.append((node.right, level + 1))
+
         q = collections.deque()
-        q.append((root, 1))
+        q.append(root)
 
         while q:
-            # node, level = q[0]
-            # q = q[1:]
-            node, level = q.popleft()
-            
-            if len(answer) < level:
-                answer.append([])
+            same_level = []
 
-            answer[level - 1].append(node.val)
+            for _ in range(len(q)):
+                node = q.popleft()
+                same_level.append(node.val)
 
-            if node.left:
-                q.append((node.left, level + 1))
+                if node.left:
+                    q.append(node.left)
+                
+                if node.right:
+                    q.append(node.right)
             
-            if node.right:
-                q.append((node.right, level + 1))
+            answer.append(same_level)
 
         return answer
