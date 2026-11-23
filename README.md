@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kibeom-kim/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kibeom-kim/leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -72,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kibeom-kim/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kibeom-kim/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kibeom-kim/leetcode/tree/master/0141-linked-list-cycle) |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kibeom-kim/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
