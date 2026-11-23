@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kibeom-kim/leetcode/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/kibeom-kim/leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kibeom-kim/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kibeom-kim/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kibeom-kim/leetcode/tree/master/0242-valid-anagram) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kibeom-kim/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
