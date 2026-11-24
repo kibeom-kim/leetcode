@@ -43,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/kibeom-kim/leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kibeom-kim/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kibeom-kim/leetcode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -65,6 +66,7 @@
 | [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/kibeom-kim/leetcode/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kibeom-kim/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kibeom-kim/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kibeom-kim/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/kibeom-kim/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kibeom-kim/leetcode/tree/master/0733-flood-fill) |
 ## Doubly-Linked List
 |  |
@@ -188,6 +191,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kibeom-kim/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kibeom-kim/leetcode/tree/master/0733-flood-fill) |
 ## Math
 |  |
