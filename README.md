@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kibeom-kim/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/kibeom-kim/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/kibeom-kim/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kibeom-kim/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kibeom-kim/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kibeom-kim/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kibeom-kim/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/kibeom-kim/leetcode/tree/master/0542-01-matrix) |
@@ -207,6 +209,7 @@
 | [0062-unique-paths](https://github.com/kibeom-kim/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kibeom-kim/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kibeom-kim/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kibeom-kim/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
